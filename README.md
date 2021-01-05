@@ -14,7 +14,7 @@ pip3 install -r ./parser_env/env_standard_requirements.txt
 ---
 In env_standard_requirements.txt
 
-  beautifulsoup4==4.9.3
+     beautifulsoup4==4.9.3
     bs4==0.0.1
     certifi==2020.12.5
     chardet==4.0.0
